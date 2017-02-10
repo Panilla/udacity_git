@@ -1,0 +1,33 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It saved me a lot of time, I could quickly see what differences there were between the two files instead of trying to compare files line by line. 
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    It helps with the learning process, I have different versions of my website saved but I still sometimes get them confused with each other if I forget which version is the latest one. There have been times where I used FTP to send the wrong file, even though I still had the correct file saved it still took time to upload the correct html file. 
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Your commits should appear to be more logical as opposed to automatic saves that might occur too often or not often enough. Automatic saves may also occur when it makes the least sense to do so, for instance, if you are just short of fixing a glitch. 
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    I wonder if you're more likely to be editing several files that rely on each other in Git as opposed to Google Docs? Although maybe it's just because Google Docs saves automatically?
+
+How can you use the commands git log and git diff to view the history of files?
+
+    With git log you can view all the commits made to a file along with brief comments about what was changed. With git diff you can see the differences between commits and what was changed by typing: git diff <first commit> <the commit below it>
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    I'm starting to see how easy it actually is to revert to a version that still works. So, this makes me feel like I have a lot more freedom to mess around with code without doing much work to change it back. 
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I've been lax on working with any projects, but I could start with saving commits for the various versions of a website I have saved already. Although, I would like to learn how to name each commit first. 
