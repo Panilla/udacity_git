@@ -12,6 +12,7 @@ Use 'git diff' without any arguments to see what changes have been made so far b
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+Branches are helpful when you want to experiment with some code, but don't want it to affect your main files that you use regularly. It's also helpful if you want to save versions in different languages. 
 
 How do the diagrams help you visualize the branch structure?
 
